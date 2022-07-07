@@ -360,7 +360,7 @@ img[lazyload] {
 }
 :root {
   --color-mode: 'light';
-  --body-bg-color: #eee;
+  --body-bg-color: #5CCDCD;
   --board-bg-color: #fff;
   --text-color: #3c4858;
   --sec-text-color: #718096;
@@ -369,7 +369,7 @@ img[lazyload] {
   --post-link-color: #0366d6;
   --link-hover-color: #30a9de;
   --link-hover-bg-color: #f8f9fa;
-  --navbar-bg-color: #2f4154;
+  --navbar-bg-color: #CD5C5C;
   --navbar-text-color: #fff;
   --scrollbar-color: #c4c6c9;
   --scrollbar-hover-color: #a6a6a6;
